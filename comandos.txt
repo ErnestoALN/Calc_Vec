@@ -1,0 +1,4 @@
+crear directorio: mkdir carpeta
+crear archivo: touch nombre.extension
+compilar: g++ -o cli.out main.cpp
+ejecutar: ./cli.out 
